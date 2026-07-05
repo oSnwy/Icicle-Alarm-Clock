@@ -23,4 +23,4 @@
 - The rotary encoder and two switches use 5 GPIO pins, while the buzzer uses one.
 - The other 6 GPIO pins are used by the THT display.
 - Both the buzzer and the THT display are powered by the 3.3V pin.
-  ![Icicle Alarm Clock Schematic](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/Images/Icicle%20Alarm%20Clock%20Schematic.png)
+  ![Icicle Alarm Clock Schematic](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Icicle%20Alarm%20Clock%20Schematic.png)
