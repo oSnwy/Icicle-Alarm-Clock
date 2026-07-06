@@ -19,8 +19,17 @@
 - The buzzer will be integrated into a transistor circuit, increasing the volume of the alarm while keeping it adjustable.
 
 ## Schemtaic (4 Hours):
-- Due to the struggle for GPIO pins on the WEMOS, I was only able to add two switches
+- Due to the struggle for GPIO pins on the WEMOS, I was only able to add two switches.
 - The rotary encoder and two switches use 5 GPIO pins, while the buzzer uses one.
 - The other 6 GPIO pins are used by the THT display.
-- Both the buzzer and the THT display are powered by the 3.3V pin.
+- The 3.3V pin powers both the buzzer and the THT display.
   ![Icicle Alarm Clock Schematic](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Icicle%20Alarm%20Clock%20Schematic.png)
+## Schematic (UPDATE: +2 Hours):
+- While creating the PCB, I added a pull-down resistor between the base of the transistor circuit and the GND pin.
+- I changed the THT display to be connected with a generic 2.54mm 1x8 connector, so the keys and screen can be mounted on separate planes.
+- The BL is now powered by the 3.3V pin, freeing the GPIO pin to be used for a third switch.
+
+## PCB (4 Hours)
+- The PCB was wired in KiCad, using the footprints provided by Hack Club [BLARE](https://github.com/destroyer796/BLARE-Alarm-Clock/tree/main).
+- All components were mounted on the top of the PCB.
+- The PCB includes 4 mounting holes for m3 screws.
