@@ -52,6 +52,8 @@
 
 ## Case (3 Hours)
 This case is designed to work in two parts. The main body of the case has M3 screw standoffs in the base, allowing the PCB to be screwed into the case securely. The LCD can be attached to the front of the case using M2 screws in the hole in the front. The lid functions as a quick access to all the componenets inside, as well as contains a hole to reach the knob and switches. The side of the case contains cutouts to better transmit the sound of the buzzer.
-|[CASE isometric](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Case%20Iso.png)| [LID isometric](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Case%20Lid%20Iso.png) |
+
+
+| ![CASE isometric](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Case%20Iso.png)| ![LID isometric](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Case%20Lid%20Iso.png) |
 | ---------- | ---------- |
-| [CASE side](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Case%20Side.png) | [CASE top](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Case%20Top.png) |
+| ![CASE side](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Case%20Side.png) | ![CASE top](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Case%20Top.png) |
