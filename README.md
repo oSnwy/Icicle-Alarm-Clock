@@ -24,6 +24,7 @@
 - The other 6 GPIO pins are used by the THT display.
 - The 3.3V pin powers both the buzzer and the THT display.
   ![Icicle Alarm Clock Schematic](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Icicle%20Alarm%20Clock%20Schematic.png)
+  
 ## Schematic (UPDATE: +2 Hours):
 - While creating the PCB, I added a pull-down resistor between the base of the transistor circuit and the GND pin.
 - I changed the THT display to be connected with a generic 2.54mm 1x8 connector, so the keys and screen can be mounted on separate planes.
