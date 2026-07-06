@@ -29,8 +29,10 @@
 - While creating the PCB, I added a pull-down resistor between the base of the transistor circuit and the GND pin.
 - I changed the THT display to be connected with a generic 2.54mm 1x8 connector, so the keys and screen can be mounted on separate planes.
 - The BL is now powered by the 3.3V pin, freeing the GPIO pin to be used for a third switch.
+  ![Icicle Alarm Clock Schematic UPDATED](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Icicle%20Alarm%20Clock%20Schematic%20UPDATED.png)
 
 ## PCB (4 Hours)
 - The PCB was wired in KiCad, using the footprints provided by Hack Club [BLARE](https://github.com/destroyer796/BLARE-Alarm-Clock/tree/main).
 - All components were mounted on the top of the PCB.
 - The PCB includes 4 mounting holes for m3 screws.
+  ![Icicle Alarm Clock Schematic UPDATED](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Icicle%20Alarm%20Clock%20PCB.png)
