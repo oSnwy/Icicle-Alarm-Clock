@@ -36,4 +36,4 @@
 - All components were mounted on the top of the PCB.
 - The PCB includes 4 mounting holes for m3 screws.
 - This PCB
-  ![Icicle Alarm Clock Schematic UPDATED](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Icicle%20Alarm%20Clock%20PCB.png)
+  ![Icicle Alarm Clock Schematic UPDATED]((https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Icicle%20Alarm%20Clock%20pcb.png)
