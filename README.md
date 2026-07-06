@@ -35,5 +35,5 @@
 - The PCB was wired in KiCad, using the footprints provided by Hack Club [BLARE](https://github.com/destroyer796/BLARE-Alarm-Clock/tree/main).
 - All components were mounted on the top of the PCB.
 - The PCB includes 4 mounting holes for m3 screws.
-- This PCB
-  ![Icicle Alarm Clock Schematic UPDATED]((https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Icicle%20Alarm%20Clock%20pcb.png)
+- This PCB uses a 1x8 connector for the display.
+  ![Icicle Alarm Clock Schematic UPDATED](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/images/Icicle%20Alarm%20Clock%20pcb.png)
