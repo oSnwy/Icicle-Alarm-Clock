@@ -19,12 +19,13 @@
 | 1k ohm Resistor | 1 |
 | 10k Ohm Resistor | 1 |
 | S8050 Transistor | 1 |
+| Case | 1 |
+| Lid | 1 |
 | 1x8 2.54mm pin headers | 2 |
 | Keyboard Switches | 3 |
 | Keyboard Keycaps | 3 |
 | Female to female Dupont wires | 16 |
-| Case | 1 |
-| Lid | 1 |
+
 
 ## Planning:
 - I plan to use a rotary encoder with a switch to navigate the UI, as well as extra switches to easily toggle alarms or other features.
