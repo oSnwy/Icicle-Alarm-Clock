@@ -1,5 +1,10 @@
 # Icicle-Alarm-Clock
 
+<p align="center">
+  <img src="/images/Full Model.gif" width="250"></p>
+</p>
+
+
 ## Initial goals:
 ### Priority Goals:
 - This alarm clock should be able to tell the time (obviously).
@@ -30,13 +35,13 @@
 
 
 ## Planning:
-- I plan to use a rotary encoder with a switch to navigate the UI, as well as extra switches to easily toggle alarms or other features.
+- I plan to use a rotary encoder with a switch to navigate the UI, as well as extra switches to toggle alarms or other features easily.
 - The buzzer will be integrated into a transistor circuit, increasing the volume of the alarm while keeping it adjustable.
 
 ## Schemtaic (4 Hours):
 - Due to the struggle for GPIO pins on the WEMOS, I was only able to add two switches.
 - The rotary encoder and two switches use 5 GPIO pins, while the buzzer uses one.
-- The other 6 GPIO pins are used by the THT display.
+- The THT display uses the other 6 GPIO pins.
 - The 3.3V pin powers both the buzzer and the THT display.
 <img src="/images/Icicle Alarm Clock Schematic.png" width="1000">
   
