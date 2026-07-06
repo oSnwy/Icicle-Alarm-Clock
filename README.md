@@ -8,11 +8,21 @@
 
 
 ## Parts list
-- Lolin C3 Mini ESP32
-- 2.25in TFT display
-- 12 Keyboard Switches
-- A 3.3V Piezo Buzzer
-- Some Jumper Cables for wiring
+
+| Part | Quantity |
+| ---------- | ---------- |
+| Lolin C3 Mini ESP32 | 1 |
+| 2.25in TFT display | 1 |
+| Custom PCB | 1 |
+| 3.3V Piezo Buzzer | 1 |
+| EC11 Rotary Encoder Switch Button | 1 |
+| 1k ohm Resistor | 1 |
+| 10k Ohm Resistor | 1 |
+| S8050 Transistor | 1 |
+| 1x8 2.54mm pin headers | 2 |
+| Keyboard Switches | 3 |
+| Keyboard Keycaps | 3 |
+| Female to female Dupont wires | 16 |
 
 ## Planning:
 - I plan to use a rotary encoder with a switch to navigate the UI, as well as extra switches to easily toggle alarms or other features.
