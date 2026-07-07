@@ -66,7 +66,7 @@
 ## Case (3 Hours)
 This case is designed to work in two parts. The main body of the case has M3 screw standoffs in the base, allowing the PCB to be screwed into the case securely. The LCD can be attached to the front of the case using M2 screws in the hole in the front. The lid functions as a quick access to all the componenets inside, as well as contains a hole to reach the knob and switches. The side of the case contains cutouts to better transmit the sound of the buzzer.
 - All 3d files can be found in the 3d model folder.
-- The case and lid are stored in [/3d models/Alarm Clock Base.step](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/3d%20models/Alarm%20Clock%20Base.step) and [/3d models/Alarm Clock Lid.step](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/3d%20models/Alarm%20Clock%20Lid.step)
+- The case and lid are stored in [/3d models/STEP files/Alarm Clock Base.step](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/3d%20models/STEP%20files/Alarm%20Clock%20Base.step) and [/3d models/STEP files/Alarm Clock Lid.step](https://github.com/oSnwy/Icicle-Alarm-Clock/blob/main/3d%20models/STEP%20files/Alarm%20Clock%20Lid.step)
 
 ## CASE (REVISED: +2 Hours):
 Added holes for the usb c wire, as well as a lower lid for easier access to the switches. Also added full electronics 3d model.
