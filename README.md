@@ -16,22 +16,27 @@
 
 ## Parts list (Bill of Materials)
 
-| Part | Quantity |
-| ---------- | ---------- |
-| Lolin C3 Mini ESP32 | 1 |
-| 2.25in TFT display | 1 |
-| Custom PCB | 1 |
-| 3.3V Piezo Buzzer | 1 |
-| EC11 Rotary Encoder Switch Button | 1 |
-| 1k ohm Resistor | 1 |
-| 10k Ohm Resistor | 1 |
-| S8050 Transistor | 1 |
-| Case | 1 |
-| Lid | 1 |
-| 1x8 2.54mm pin headers | 2 |
-| Keyboard Switches | 3 |
-| Keyboard Keycaps | 3 |
-| Female to female Dupont wires | 16 |
+| Part | Quantity | Price | Link |  
+| ---------- | ---------- | ---------- | ---------- |
+| Lolin C3 Mini ESP32 | 1 | Provided in Kit | N/A |
+| 2.25in TFT display | 1 | Provided in Kit | N/A |
+| Custom PCB | 1 | $8.67 | JLPCB |
+| 3.3V Piezo Buzzer | 1 | Provided in Kit | N/A |
+| EC11 Rotary Encoder Switch Button | 1 | $7.55 CAD | [AliExpress](https://www.aliexpress.com/item/1005008610645902.html?spm=a2g0o.productlist.main.4.2c317465sXCwvW&aem_p4p_detail=202607070924475087980507770000005617811&algo_pvid=e8d69d13-1db0-4bfd-9fc3-c2f3c209ff59&algo_exp_id=e8d69d13-1db0-4bfd-9fc3-c2f3c209ff59-3&pdp_ext_f=%7B%22order%22%3A%22342%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%214.48%214.47%21%21%213.08%213.07%21%402103123917834414872141769e2889%2112000045944331228%21sea%21CA%213742168056%21ABX%211%210%21n_tag%3A-29910%3Bd%3A5e0cbcd8%3Bm03_new_user%3A-29895%3BpisId%3A5000000206226397&curPageLogUid=CCZx2Qf1bu2y&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008610645902%7C_p_origin_prod%3A&search_p4p_id=202607070924475087980507770000005617811_1) |
+| 1k ohm Resistor | 1 | $0.88 CAD | [AliExpress](https://www.aliexpress.com/item/1005007643210127.html?spm=a2g0o.productlist.main.2.6d624f792su7dm&algo_pvid=c0e45152-9ff0-4ec1-bf8a-26d206a77dc9&algo_exp_id=c0e45152-9ff0-4ec1-bf8a-26d206a77dc9-1&pdp_ext_f=%7B%22order%22%3A%22886%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%210.88%210.85%21%21%214.10%213.94%21%4021033d1217834393402286197efc5e%2112000041624997313%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A5e0cbcd8%3Bm03_new_user%3A-29895&curPageLogUid=x2mLNx3qELF5&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007643210127%7C_p_origin_prod%3A) |
+| 10k Ohm Resistor | 1 | $0.88 CAD | [AliExpress](https://www.aliexpress.com/item/1005007643210127.html?spm=a2g0o.productlist.main.2.6d624f792su7dm&algo_pvid=c0e45152-9ff0-4ec1-bf8a-26d206a77dc9&algo_exp_id=c0e45152-9ff0-4ec1-bf8a-26d206a77dc9-1&pdp_ext_f=%7B%22order%22%3A%22886%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%210.88%210.85%21%21%214.10%213.94%21%4021033d1217834393402286197efc5e%2112000041624997313%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A5e0cbcd8%3Bm03_new_user%3A-29895&curPageLogUid=x2mLNx3qELF5&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007643210127%7C_p_origin_prod%3A) |
+| S8050 Transistor | 1 | $7.47 CAD | [AliExpress](https://www.aliexpress.com/item/1005006811049225.html?spm=a2g0o.productlist.main.3.23a042ccHx9qk2&algo_pvid=fbd39ea5-1fc0-4b3e-8849-d372df714f92&algo_exp_id=fbd39ea5-1fc0-4b3e-8849-d372df714f92-2&pdp_ext_f=%7B%22order%22%3A%22191%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%217.47%214.89%21%21%2134.89%2122.85%21%40210319b717834404073473874e8d99%2112000038384320363%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A5e0cbcd8%3Bm03_new_user%3A-29895&curPageLogUid=pNodTbyBBguG&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006811049225%7C_p_origin_prod%3A) |
+| Case | 1 | Provided in Kit | N/A |
+| Lid | 1 | Provided in Kit | N/A |
+| 1x8 2.54mm pin headers | 2 | $3.72 CAD | [AliExpress](https://www.aliexpress.com/item/32847429443.html?spm=a2g0o.productlist.main.1.166537c1nJpVM4&algo_pvid=ee7e908c-bf01-4b82-bbfa-7b54397e240c&algo_exp_id=ee7e908c-bf01-4b82-bbfa-7b54397e240c-0&pdp_ext_f=%7B%22order%22%3A%22271%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%213.72%211.44%21%21%212.56%210.99%21%402103110517834417116324369e57b9%2165154055537%21sea%21CA%213742168056%21ABX%211%210%21n_tag%3A-29910%3Bd%3A5e0cbcd8%3Bm03_new_user%3A-29895%3BpisId%3A5000000207288090&curPageLogUid=epGjb5yLUGmR&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32847429443%7C_p_origin_prod%3A) |
+| Keyboard Switches | 3 | Provided in Kit | N/A |
+| Keyboard Keycaps | 3 | Provided in Kit | N/A |
+| Male to male Dupont wires | 16 | $3.50 CAD | [AliExpress](https://www.aliexpress.com/item/4000109443054.html?spm=a2g0o.productlist.main.2.3b6b6071c6l0Fw&algo_pvid=0befaeab-1c07-467e-9051-386d31b85111&algo_exp_id=0befaeab-1c07-467e-9051-386d31b85111-1&pdp_ext_f=%7B%22order%22%3A%22203%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%213.50%211.44%21%21%212.41%210.99%21%402103122117834414202824009ecbf1%2110000000283106726%21sea%21CA%213742168056%21ABX%211%210%21n_tag%3A-29910%3Bd%3A5e0cbcd8%3Bm03_new_user%3A-29895%3BpisId%3A5000000210940427&curPageLogUid=BccdmUIZQV69&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000109443054%7C_p_origin_prod%3A) | 
+
+
+| Price | HST (Ontario Sales Tax) | Total Price | Total USD Price |  
+| ---------- | ---------- | ---------- | ---------- |
+| $32.67 CAD |  $4.25 CAD HST) | $36.92 CAD | 26.01 USD |
 
 
 ## Planning:
